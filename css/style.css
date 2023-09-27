@@ -1,0 +1,107 @@
+.navbar-brand img {
+    width: 50px;
+}
+
+#main-title {
+    text-align: center;
+    margin: 15px 0 30px;
+}
+
+#contatos-table {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.col-id {
+    font-weight: bold;
+}
+
+.actions {
+    text-align: right;
+    width: 150px;
+
+}
+
+.actions i { 
+    
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+.check-icon {
+    color: #1e7e31;
+}
+
+.delete-form {
+    display: inline-block;
+}
+
+.delete-icon {
+    color: #ea0707;
+}
+
+.delete-btn{
+    background-color: transparent;
+    border: none;
+    padding: o;
+}
+
+.check-icon {
+    color: #1e7e31;
+}
+
+#empty-list-text {
+    text-align: center;
+}
+
+#msg {
+    color: #155724;
+    background-color: #d4edd1;
+    border: 1px solid #c3e6cb;
+    padding: 10px;
+    text-align: center;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+
+/* SHOW PHP*/
+
+#view-contact-container{
+    max-width: 500px;
+    margin: o auto
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#voltar-container {
+    display: block;
+    width: 500px;
+    margin: 30px auto 0;
+}
+
+#voltar-link {
+    border: 1px solid #1c1c1c;
+    color: #1c1c1c;
+    border-radius: 4px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+
+/* CREATE*/
+
+#create-form,
+#edit-form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+button {
+    margin-top: 20px;
+}
+
+
