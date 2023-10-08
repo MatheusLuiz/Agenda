@@ -12,7 +12,7 @@ include_once("templates/header.php");
 
     <?php endif; ?>
 
-    <h1 id="main-title"> Agenda de Contatos do Faria</h1>
+    <h1 id="main-title"> Agenda de Contatos</h1>
 
 
     <?php if (count($contato) > 0) : ?>
